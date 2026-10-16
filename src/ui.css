@@ -1,0 +1,64 @@
+/* additions for engine v3: sleeves, builder, tools */
+.back.sl{background:radial-gradient(circle at 50% 42%,rgba(240,215,156,.22) 0 14%,transparent 15%),repeating-conic-gradient(from 0deg at 50% 42%,rgba(255,255,255,.07) 0 10deg,transparent 10deg 20deg),linear-gradient(160deg,color-mix(in srgb,var(--sleeve,#2c4152) 100%,#fff 8%),color-mix(in srgb,var(--sleeve,#2c4152) 55%,#000));}
+.deck .arts .back.sleeveprev{--cw:60px;--ch:84px;align-self:flex-end}
+.builder{max-width:1240px}
+.btabs{display:flex;gap:6px;flex-wrap:wrap}
+.btab{padding:7px 14px;border-radius:999px;border:1px solid var(--line);font-weight:600;font-size:13px}
+.btab.on{border-color:var(--gold-hi);background:rgba(240,215,156,.12);color:var(--gold-hi)}
+.bgrid{display:grid;grid-template-columns:repeat(auto-fill,minmax(150px,1fr));gap:10px}
+.bgrid.wide{grid-template-columns:repeat(auto-fill,minmax(230px,1fr))}
+.bopt{display:grid;gap:4px;justify-items:center;text-align:center;padding:8px;border-radius:12px;border:1px solid var(--line);background:rgba(0,0,0,.25);align-content:start}
+.bopt .card{--cw:120px;--ch:168px}
+.bopt.land{justify-items:stretch;text-align:left}
+.bopt .bfart{aspect-ratio:1039/744;border-radius:8px;overflow:hidden;background:#1c2730}
+.bopt .bfart img{width:100%;height:100%;object-fit:cover;display:block}
+.bopt.on{border-color:var(--gold-hi);box-shadow:0 0 0 1px var(--gold-hi),0 0 18px rgba(240,215,156,.25)}
+.bopt b{font-family:var(--f-display);font-size:13px}
+.bsplit{display:grid;grid-template-columns:minmax(0,1.7fr) minmax(260px,1fr);gap:14px;min-height:0}
+@media (max-width:900px){html:not(.ph-game) .bsplit{grid-template-columns:1fr}}
+.bpool,.bdeck{display:grid;gap:8px;align-content:start;min-width:0}
+.bpool .elist{max-height:calc(var(--vh,1vh)*62)}
+.bdeck{background:rgba(0,0,0,.25);border:1px solid var(--line);border-radius:14px;padding:10px;position:sticky;top:10px}
+.bdeck .elist{max-height:calc(var(--vh,1vh)*64)}
+.drow{display:grid;grid-template-columns:auto minmax(0,1fr) auto auto;gap:8px;align-items:center;padding:4px 6px;border-radius:8px;border:1px solid var(--line);font-size:13px}
+.auto{font-size:12px;margin-left:4px}.auto.manual{color:#f2c46b}.auto.auto,.auto.hand,.auto.vanilla{color:var(--ok)}
+.note.warn,.warn{color:#f2c46b}
+.runeset{display:grid;justify-items:center;gap:6px}.runeset .rune{--rw:60px;--rh:84px}
+.sleevebtn{padding:4px;border-radius:10px;border:2px solid transparent}.sleevebtn.on{border-color:var(--gold-hi)}
+.sleevebtn .back{--cw:44px;--ch:62px}
+.sleevebtn.custom{display:grid;place-items:center;width:56px;height:74px;border:1px dashed var(--line-strong);cursor:pointer}
+.sleevebtn.custom input{width:40px;height:40px;border:0;background:none;padding:0}
+.toolpanel{position:fixed;left:14px;top:14px;z-index:62;width:300px;background:#0d151c;border:1px solid var(--gold);border-radius:14px;padding:10px;display:grid;gap:8px;box-shadow:0 14px 40px rgba(0,0,0,.7)}
+.toolgrid{display:flex;flex-wrap:wrap;gap:6px}.toolgrid .btn.sm{font-size:12px;padding:4px 9px}
+.toolsel{font-weight:600;color:var(--gold-hi)}
+.viewov{display:grid;justify-items:center;gap:12px;align-content:center}
+.viewtxt{max-width:min(640px,calc(var(--vw,1vw)*90));background:var(--panel);border:1px solid var(--line-strong);border-radius:12px;padding:10px 14px;display:grid;gap:6px;font-size:14px;cursor:default}
+.pvwarn{margin-top:6px;background:#2b2210;border:1px solid #f2c46b;color:#f2c46b;border-radius:8px;padding:6px 8px;font-size:12px}
+.mat.custommat>.matbg.bot{opacity:.45;filter:none}
+.slot.tgt .card{box-shadow:0 0 0 3px var(--foe),0 0 16px var(--foe)}
+.slot.mine.tgt .card{box-shadow:0 0 0 3px var(--ok),0 0 16px var(--ok)}
+.opts2 .opt span{white-space:normal}
+
+.dgroup{margin-top:10px}
+.dgroup>summary{cursor:pointer;list-style:none;display:flex;gap:8px;align-items:baseline;padding:6px 0;border-bottom:1px solid rgba(255,255,255,.08)}
+.dgroup>summary::-webkit-details-marker{display:none}
+.dgroup>summary::before{content:'▸';color:var(--muted,#8a98a8);transition:transform .15s}
+.dgroup[open]>summary::before{transform:rotate(90deg)}
+.dgroup .decks{margin-top:10px}
+
+img{-webkit-user-drag:none;user-select:none}
+.ghost{pointer-events:none}
+
+/* ---------- phones: the table is laid out at a fixed size and scaled to the screen ---------- */
+html.phone, html.phone body { overscroll-behavior: none; }
+html.phone.ph-game, html.phone.ph-game body { overflow: hidden; height: 100%; }
+html.phone.ph-game #root { touch-action: none; -webkit-user-select: none; user-select: none; -webkit-touch-callout: none; }
+html.phone .btn, html.phone .opt, html.phone .ctxi { min-height: 34px; }
+html.phone .ctxmenu .ctxi { font-size: 15px; padding: 10px 14px; }
+html.phone .keys { display: none; }
+html.portrait-game body::after { content: 'Turn your phone sideways to play'; position: fixed; inset: 0; z-index: 9999; display: grid; place-items: center; padding: 24px; text-align: center;
+  font: 600 20px/1.4 var(--f-body); color: var(--gold-hi); background: radial-gradient(circle at 50% 40%, #1b2e3c, var(--felt-2)); }
+html.ph-game{--hh:118px !important}
+html.ph-game .hand .hc:hover, html.ph-game .hand .hc:active{transform:translateY(-34px) scale(1.08)!important;z-index:5}
+html.ph-game .actbox .keys, html.ph-game .actbox .recent{display:none}
+html.ph-game kbd{display:none}

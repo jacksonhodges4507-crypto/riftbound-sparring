@@ -1,0 +1,1895 @@
+{
+ "diana": {
+  "name": "Diana",
+  "sub": "Scorn of the Moon",
+  "src": "1st, Sideways Showdown: CN vs World · JHM · Jul 2026 · Stacked Deck swapped for sideboard cards (banned)",
+  "legend": "scorn-of-the-moon",
+  "champ": "diana-lunari",
+  "runes": {
+   "chaos": 7,
+   "mind": 5
+  },
+  "bfs": [
+   "abandoned-hall",
+   "rockfall-path",
+   "veiled-temple"
+  ],
+  "main": {
+   "patched-porobot": 3,
+   "ravenbloom-student": 3,
+   "tideturner": 3,
+   "fizz-trickster": 2,
+   "hwei-brooding-painter": 3,
+   "swain-visionary": 3,
+   "gust": 2,
+   "stupefy": 3,
+   "abandon": 2,
+   "switcheroo": 1,
+   "morbid-return": 2,
+   "ride-the-wind": 3,
+   "temporal-breach": 3,
+   "eclipse": 1,
+   "moonfall": 3,
+   "star-crossed": 2
+  },
+  "side": {
+   "decree-of-insight": 1,
+   "switcheroo": 1,
+   "ravenbloom-prefect": 2,
+   "khazix-mutating-horror": 2,
+   "vex-cheerless": 1
+  }
+ },
+ "irelia": {
+  "name": "Irelia",
+  "sub": "Blade Dancer",
+  "src": "2nd, Triple Win-A-Box Vendetta · BCat · Aug 2026 · Stacked Deck swapped for sideboard cards (banned)",
+  "legend": "blade-dancer",
+  "champ": "irelia-fervent",
+  "runes": {
+   "calm": 6,
+   "chaos": 6
+  },
+  "bfs": [
+   "abandoned-hall",
+   "sunken-temple",
+   "targons-peak"
+  ],
+  "main": {
+   "scuttle-crab": 3,
+   "tideturner": 3,
+   "fizz-trickster": 1,
+   "stellacorn-herder": 3,
+   "ocean-drake": 1,
+   "zhonyas-hourglass": 2,
+   "boots-of-swiftness": 2,
+   "charm": 2,
+   "defiant-dance": 3,
+   "defy": 3,
+   "en-garde": 2,
+   "hard-bargain": 1,
+   "twilight-shroud": 1,
+   "discipline": 3,
+   "flash": 2,
+   "ride-the-wind": 2,
+   "find-your-center": 3,
+   "star-crossed": 2
+  },
+  "side": {
+   "crumbling-sands": 1,
+   "decree-of-focus": 1,
+   "up-from-the-deep": 2,
+   "adaptatron": 2,
+   "akali-silent": 2
+  }
+ },
+ "ezreal": {
+  "name": "Ezreal",
+  "sub": "Prodigal Explorer",
+  "src": "1st, Triple Win-A-Box Vendetta · Bradykin · Aug 2026 · Stacked Deck swapped for sideboard cards (banned)",
+  "legend": "prodigal-explorer",
+  "champ": "ezreal-prodigy",
+  "runes": {
+   "chaos": 6,
+   "mind": 6
+  },
+  "bfs": [
+   "frozen-fortress",
+   "heisho-shell-of-the-world",
+   "sigil-of-the-storm"
+  ],
+  "main": {
+   "bewitching-spirit": 3,
+   "fizz-trickster": 3,
+   "pickpocket": 2,
+   "vex-apathetic": 1,
+   "thousand-tailed-watcher": 2,
+   "the-list": 2,
+   "pack-of-wonders": 3,
+   "sprite-fountain": 1,
+   "treasure-trove": 2,
+   "bellows-breath": 3,
+   "gust": 2,
+   "stupefy": 3,
+   "hard-bargain": 2,
+   "turn-to-dust": 2,
+   "star-crossed": 2,
+   "wages-of-pain": 2,
+   "deadly-flourish": 3,
+   "singularity": 1
+  },
+  "side": {
+   "acceptable-losses": 1,
+   "garbage-grabber": 1,
+   "khazix-mutating-horror": 2,
+   "vex-apathetic": 1,
+   "mindsplitter": 1,
+   "unchecked-power": 1
+  }
+ },
+ "kaisa": {
+  "name": "Kai'Sa",
+  "sub": "Daughter of the Void",
+  "src": "15th of 1,833, Vancouver Regional Qualifier · Sinzari · May 2026 (riftdecks.com)",
+  "legend": "daughter-of-the-void",
+  "champ": "kaisa-survivor",
+  "runes": {
+   "fury": 7,
+   "mind": 5
+  },
+  "bfs": [
+   "star-spring",
+   "the-arenas-greatest",
+   "void-gate"
+  ],
+  "main": {
+   "inferna": 2,
+   "ravenbloom-student": 3,
+   "watchful-sentry": 3,
+   "lecturing-yordle": 2,
+   "noxus-hopeful": 2,
+   "brynhir-thundersong": 1,
+   "ferrous-forerunner": 3,
+   "thousand-tailed-watcher": 3,
+   "long-sword": 1,
+   "bellows-breath": 1,
+   "hextech-ray": 3,
+   "stupefy": 3,
+   "falling-star": 3,
+   "smite": 1,
+   "turn-to-dust": 1,
+   "eclipse": 2,
+   "void-seeker": 1,
+   "singularity": 2,
+   "time-warp": 2
+  },
+  "side": {
+   "smite": 1,
+   "turn-to-dust": 2,
+   "rengar-pouncing": 1,
+   "thermo-beam": 1,
+   "brynhir-thundersong": 1,
+   "progress-day": 1,
+   "unchecked-power": 1
+  }
+ },
+ "la-rengar-dsg-prismaticism": {
+  "name": "Rengar",
+  "sub": "Pridestalker",
+  "src": "1st, RQ Los Angeles (Sep 2026) · DSG Prismaticism",
+  "event": "RQ Los Angeles (Sep 2026)",
+  "player": "DSG Prismaticism",
+  "place": "1st",
+  "legend": "pridestalker",
+  "champ": "rengar-trophy-hunter",
+  "runes": {
+   "body": 8,
+   "fury": 4
+  },
+  "bfs": [
+   "emperors-dais",
+   "seat-of-power",
+   "star-spring"
+  ],
+  "main": {
+   "darius-trifarian": 1,
+   "ferrous-forerunner": 1,
+   "first-mate": 2,
+   "grim-apothecary": 3,
+   "inferna": 3,
+   "irresistible-faefolk": 3,
+   "kaisa-survivor": 3,
+   "kinkou-initiate": 3,
+   "nidalee-cat-form": 2,
+   "noxus-hopeful": 3,
+   "pakaa-cub": 1,
+   "pit-rookie": 3,
+   "punch-first": 3,
+   "pyke-dockside-butcher": 1,
+   "rampage": 2,
+   "sabotage": 3,
+   "thrill-of-the-hunt": 2
+  },
+  "side": {
+   "brittle-steel": 2,
+   "brynhir-thundersong": 1,
+   "decree-of-strength": 2,
+   "ferrous-forerunner": 2,
+   "noxian-demolitionist": 1,
+   "pyke-dockside-butcher": 1,
+   "rampage": 1
+  }
+ },
+ "la-irelia-xeno": {
+  "name": "Irelia",
+  "sub": "Blade Dancer",
+  "src": "2nd, RQ Los Angeles (Sep 2026) · Xeno",
+  "event": "RQ Los Angeles (Sep 2026)",
+  "player": "Xeno",
+  "place": "2nd",
+  "legend": "blade-dancer",
+  "champ": "irelia-fervent",
+  "runes": {
+   "calm": 6,
+   "chaos": 6
+  },
+  "bfs": [
+   "abandoned-hall",
+   "sunken-temple",
+   "targons-peak"
+  ],
+  "main": {
+   "abandon": 1,
+   "akali-silent": 1,
+   "boots-of-swiftness": 2,
+   "charm": 2,
+   "defiant-dance": 3,
+   "defy": 3,
+   "discipline": 3,
+   "en-garde": 2,
+   "flash": 1,
+   "guardian-angel": 1,
+   "gust": 1,
+   "not-so-fast": 1,
+   "pyke-returned": 1,
+   "ride-the-wind": 2,
+   "scuttle-crab": 3,
+   "star-crossed": 2,
+   "stellacorn-herder": 3,
+   "tideturner": 3,
+   "twilight-shroud": 1,
+   "vex-apathetic": 1,
+   "zhonyas-hourglass": 2
+  },
+  "side": {
+   "adaptatron": 2,
+   "akali-silent": 1,
+   "decree-of-focus": 1,
+   "not-so-fast": 1,
+   "pyke-returned": 1,
+   "ravenbloom-prefect": 2,
+   "switcheroo": 1,
+   "vex-apathetic": 1
+  }
+ },
+ "la-ornn-mice-themanland": {
+  "name": "Ornn",
+  "sub": "Fire Below the Mountain",
+  "src": "Top 8, RQ Los Angeles (Sep 2026) · MICE TheManLand",
+  "event": "RQ Los Angeles (Sep 2026)",
+  "player": "MICE TheManLand",
+  "place": "Top 8",
+  "legend": "fire-below-the-mountain",
+  "champ": "ornn-blacksmith",
+  "runes": {
+   "calm": 8,
+   "mind": 4
+  },
+  "bfs": [
+   "ornns-forge",
+   "seat-of-power",
+   "veiled-temple"
+  ],
+  "main": {
+   "aspiring-engineer": 2,
+   "brutalizer": 3,
+   "charm": 2,
+   "clockwork-keeper": 3,
+   "cloth-armor": 1,
+   "defy": 3,
+   "guardian-angel": 2,
+   "lecturing-yordle": 1,
+   "mask-of-foresight": 1,
+   "patched-porobot": 3,
+   "pit-crew": 3,
+   "poro-snax": 3,
+   "scuttle-crab": 3,
+   "seal-of-focus": 3,
+   "sprite-fountain": 3,
+   "steraks-gage": 3
+  },
+  "side": {
+   "charm": 1,
+   "decree-of-focus": 2,
+   "decree-of-insight": 2,
+   "disarming-rake": 3,
+   "not-so-fast": 1,
+   "twilight-shroud": 1
+  }
+ },
+ "la-akali-hxn-tempete": {
+  "name": "Akali",
+  "sub": "Rogue Assassin",
+  "src": "Top 8, RQ Los Angeles (Sep 2026) · HXN TEMPETE",
+  "event": "RQ Los Angeles (Sep 2026)",
+  "player": "HXN TEMPETE",
+  "place": "Top 8",
+  "legend": "rogue-assassin",
+  "champ": "akali-deadly-weapon",
+  "runes": {
+   "calm": 6,
+   "fury": 6
+  },
+  "bfs": [
+   "forgotten-monument",
+   "sigil-of-the-storm",
+   "void-gate"
+  ],
+  "main": {
+   "astral-heron": 3,
+   "back-off": 2,
+   "blitzcrank-impassive": 1,
+   "block": 1,
+   "darius-trifarian": 1,
+   "defy": 3,
+   "discipline": 3,
+   "falling-star": 3,
+   "ferrous-forerunner": 1,
+   "kaisa-survivor": 3,
+   "long-sword": 2,
+   "mischievous-marai": 2,
+   "mournful-witness": 1,
+   "not-so-fast": 1,
+   "scuttle-crab": 2,
+   "shuriken-flip": 3,
+   "stellacorn-herder": 3,
+   "steraks-gage": 1,
+   "zhonyas-hourglass": 3
+  },
+  "side": {
+   "against-the-odds": 1,
+   "akali-silent": 1,
+   "decree-of-focus": 1,
+   "disarming-rake": 2,
+   "ferrous-forerunner": 2,
+   "irelia-fervent": 2,
+   "not-so-fast": 1
+  }
+ },
+ "la-master-yi-swagalisk": {
+  "name": "Master Yi",
+  "sub": "Wuju Bladesman",
+  "src": "Top 8, RQ Los Angeles (Sep 2026) · SWAGALISK",
+  "event": "RQ Los Angeles (Sep 2026)",
+  "player": "SWAGALISK",
+  "place": "Top 8",
+  "legend": "wuju-bladesman-starter",
+  "champ": "master-yi-tempered",
+  "runes": {
+   "body": 7,
+   "calm": 5
+  },
+  "bfs": [
+   "emperors-dais",
+   "seat-of-power",
+   "star-spring"
+  ],
+  "main": {
+   "akali-silent": 1,
+   "charm": 3,
+   "defy": 3,
+   "discipline": 3,
+   "en-garde": 2,
+   "first-mate": 3,
+   "legion-marauder": 1,
+   "lonely-poro": 2,
+   "onslaught": 1,
+   "pit-rookie": 3,
+   "punch-first": 3,
+   "rampage": 2,
+   "rengar-trophy-hunter": 3,
+   "ruin-runner": 1,
+   "sabotage": 3,
+   "scuttle-crab": 3,
+   "zhonyas-hourglass": 2
+  },
+  "side": {
+   "alpha-strike": 1,
+   "decree-of-focus": 1,
+   "decree-of-strength": 2,
+   "disarming-rake": 3,
+   "repulse": 1,
+   "ruin-runner": 1,
+   "unyielding-spirit": 1
+  }
+ },
+ "la-irelia-tm2": {
+  "name": "Irelia",
+  "sub": "Blade Dancer",
+  "src": "Top 8, RQ Los Angeles (Sep 2026) · TM2",
+  "event": "RQ Los Angeles (Sep 2026)",
+  "player": "TM2",
+  "place": "Top 8",
+  "legend": "blade-dancer",
+  "champ": "irelia-fervent",
+  "runes": {
+   "calm": 5,
+   "chaos": 7
+  },
+  "bfs": [
+   "abandoned-hall",
+   "sunken-temple",
+   "targons-peak"
+  ],
+  "main": {
+   "astral-heron": 3,
+   "boots-of-swiftness": 3,
+   "charm": 1,
+   "defiant-dance": 3,
+   "defy": 3,
+   "discipline": 3,
+   "gust": 1,
+   "lonely-poro": 2,
+   "not-so-fast": 1,
+   "pyke-returned": 1,
+   "rebuke": 2,
+   "ride-the-wind": 1,
+   "scuttle-crab": 2,
+   "star-crossed": 2,
+   "stellacorn-herder": 3,
+   "switcheroo": 1,
+   "tideturner": 3,
+   "vex-apathetic": 1,
+   "zhonyas-hourglass": 3
+  },
+  "side": {
+   "abandon": 1,
+   "adaptatron": 1,
+   "decree-of-focus": 1,
+   "gust": 1,
+   "not-so-fast": 1,
+   "ravenbloom-prefect": 3,
+   "star-crossed": 1,
+   "vex-apathetic": 1
+  }
+ },
+ "la-azir-nrw-rocklho": {
+  "name": "Azir",
+  "sub": "Emperor of the Sands",
+  "src": "Top 8, RQ Los Angeles (Sep 2026) · NRW Rocklho",
+  "event": "RQ Los Angeles (Sep 2026)",
+  "player": "NRW Rocklho",
+  "place": "Top 8",
+  "legend": "emperor-of-the-sands",
+  "champ": "azir-sovereign",
+  "runes": {
+   "calm": 6,
+   "order": 6
+  },
+  "bfs": [
+   "hall-of-legends",
+   "seat-of-power",
+   "trifarian-war-camp"
+  ],
+  "main": {
+   "arise": 3,
+   "b-f-sword": 3,
+   "back-off": 1,
+   "brutalizer": 3,
+   "deathgrip": 3,
+   "defy": 3,
+   "deserts-call": 2,
+   "discipline": 3,
+   "dorans-shield": 3,
+   "eye-of-the-herald": 3,
+   "guards": 2,
+   "hand-hammer": 3,
+   "hidden-blade": 3,
+   "sacrifice": 1,
+   "soul-sword": 2,
+   "vi-peacekeeper": 1
+  },
+  "side": {
+   "ashe-focused": 1,
+   "charm": 2,
+   "decree-of-focus": 2,
+   "disarming-rake": 1,
+   "sacrifice": 1,
+   "salvage": 2,
+   "vi-peacekeeper": 1
+  }
+ },
+ "la-azir-mice-squirtle": {
+  "name": "Azir",
+  "sub": "Emperor of the Sands",
+  "src": "Top 8, RQ Los Angeles (Sep 2026) · MICE Squirtle",
+  "event": "RQ Los Angeles (Sep 2026)",
+  "player": "MICE Squirtle",
+  "place": "Top 8",
+  "legend": "emperor-of-the-sands",
+  "champ": "azir-sovereign",
+  "runes": {
+   "calm": 7,
+   "order": 5
+  },
+  "bfs": [
+   "hall-of-legends",
+   "seat-of-power",
+   "trifarian-war-camp"
+  ],
+  "main": {
+   "arise": 3,
+   "b-f-sword": 3,
+   "back-off": 3,
+   "brutalizer": 3,
+   "deathgrip": 2,
+   "defy": 3,
+   "discipline": 3,
+   "dorans-shield": 3,
+   "en-garde": 2,
+   "eye-of-the-herald": 3,
+   "guards": 3,
+   "hand-hammer": 2,
+   "hidden-blade": 3,
+   "soul-sword": 3
+  },
+  "side": {
+   "ashe-focused": 2,
+   "charm": 1,
+   "decree-of-focus": 2,
+   "decree-of-unity": 2,
+   "disarming-rake": 1,
+   "salvage": 2
+  }
+ },
+ "la-renata-glasc-cliffsunder": {
+  "name": "Renata Glasc",
+  "sub": "Chem-Baroness",
+  "src": "Best-of, RQ Los Angeles (Sep 2026) · Cliffsunder",
+  "event": "RQ Los Angeles (Sep 2026)",
+  "player": "Cliffsunder",
+  "place": "Best-of",
+  "legend": "chem-baroness",
+  "champ": "renata-glasc-industrialist",
+  "runes": {
+   "mind": 5,
+   "order": 7
+  },
+  "bfs": [
+   "forbidding-waste",
+   "seat-of-power",
+   "trifarian-war-camp"
+  ],
+  "main": {
+   "ashe-focused": 1,
+   "baited-hook": 3,
+   "deathgrip": 2,
+   "hidden-blade": 3,
+   "honest-broker": 3,
+   "hostile-takeover": 1,
+   "imperial-decree": 1,
+   "kennen-keeper-of-balance": 2,
+   "lillia-fae-fawn": 3,
+   "noxian-emissary": 3,
+   "renata-glasc-mastermind": 1,
+   "safety-inspector": 2,
+   "seal-of-unity": 3,
+   "spectral-matron": 3,
+   "sprite-burst": 2,
+   "trusty-ramhound": 2,
+   "vanguard-captain": 3,
+   "xin-zhao-vigilant": 1
+  },
+  "side": {
+   "ashe-focused": 1,
+   "hostile-takeover": 1,
+   "imperial-decree": 1,
+   "ornn-forge-god": 1,
+   "pickpocket": 1,
+   "safety-inspector": 1,
+   "time-warp": 2,
+   "zaun-punk": 2
+  }
+ },
+ "la-shen-lunar": {
+  "name": "Shen",
+  "sub": "Eye of Twilight",
+  "src": "Best-of, RQ Los Angeles (Sep 2026) · Lunar",
+  "event": "RQ Los Angeles (Sep 2026)",
+  "player": "Lunar",
+  "place": "Best-of",
+  "legend": "eye-of-twilight",
+  "champ": "shen-leader-of-the-kinkou-order",
+  "runes": {
+   "calm": 7,
+   "order": 5
+  },
+  "bfs": [
+   "forgotten-monument",
+   "kinkou-temple",
+   "risen-altar"
+  ],
+  "main": {
+   "astral-heron": 3,
+   "back-off": 2,
+   "block": 1,
+   "defy": 3,
+   "discipline": 3,
+   "divining-shells": 2,
+   "fiora-victorious": 3,
+   "irelia-fervent": 2,
+   "kayle-justified": 3,
+   "ki-barrier": 1,
+   "not-so-fast": 1,
+   "scuttle-crab": 3,
+   "shadow-dash": 3,
+   "shepherds-heirloom": 2,
+   "stellacorn-herder": 3,
+   "steraks-gage": 1,
+   "zhonyas-hourglass": 3
+  },
+  "side": {
+   "akali-silent": 2,
+   "decree-of-focus": 1,
+   "decree-of-unity": 1,
+   "salvage": 2,
+   "tomb-raider-barbara": 2,
+   "vengeance": 2
+  }
+ },
+ "la-mel-dsg-alanzq": {
+  "name": "Mel",
+  "sub": "Soul's Reflection",
+  "src": "Best-of, RQ Los Angeles (Sep 2026) · DSG Alanzq",
+  "event": "RQ Los Angeles (Sep 2026)",
+  "player": "DSG Alanzq",
+  "place": "Best-of",
+  "legend": "souls-reflection",
+  "champ": "mel-newly-awakened",
+  "runes": {
+   "chaos": 6,
+   "mind": 6
+  },
+  "bfs": [
+   "frozen-fortress",
+   "rockfall-path",
+   "targons-peak"
+  ],
+  "main": {
+   "acceptable-losses": 2,
+   "applied-researchers": 3,
+   "dredge-up": 3,
+   "fizz-trickster": 1,
+   "gust": 2,
+   "hwei-brooding-painter": 3,
+   "ravenbloom-student": 3,
+   "rebuttal": 3,
+   "ride-the-wind": 2,
+   "shock-blast": 2,
+   "smoke-screen": 1,
+   "star-crossed": 2,
+   "stupefy": 3,
+   "switcheroo": 1,
+   "tideturner": 3,
+   "time-warp": 2,
+   "traveling-merchant": 3
+  },
+  "side": {
+   "decree-of-insight": 2,
+   "fizz-trickster": 1,
+   "pickpocket": 2,
+   "ravenbloom-prefect": 2,
+   "turn-to-dust": 2,
+   "unchecked-power": 1
+  }
+ },
+ "la-renekton-thekryptonian": {
+  "name": "Renekton",
+  "sub": "Butcher of the Sands",
+  "src": "Best-of, RQ Los Angeles (Sep 2026) · TheKryptonian",
+  "event": "RQ Los Angeles (Sep 2026)",
+  "player": "TheKryptonian",
+  "place": "Best-of",
+  "legend": "butcher-of-the-sands",
+  "champ": "renekton-rage-fueled",
+  "runes": {
+   "body": 7,
+   "fury": 5
+  },
+  "bfs": [
+   "forbidding-waste",
+   "seat-of-power",
+   "star-spring"
+  ],
+  "main": {
+   "cleave": 1,
+   "darius-trifarian": 1,
+   "dominus": 1,
+   "ferrous-forerunner": 1,
+   "first-mate": 3,
+   "grim-apothecary": 1,
+   "inferna": 3,
+   "irresistible-faefolk": 3,
+   "kaisa-survivor": 3,
+   "kinkou-initiate": 2,
+   "nidalee-cat-form": 2,
+   "noxus-hopeful": 3,
+   "pit-rookie": 2,
+   "punch-first": 3,
+   "rampage": 2,
+   "rengar-trophy-hunter": 3,
+   "ruin-runner": 2,
+   "sabotage": 2,
+   "tools-of-empire": 1
+  },
+  "side": {
+   "brittle-steel": 1,
+   "decree-of-rage": 1,
+   "decree-of-strength": 1,
+   "ferrous-forerunner": 2,
+   "repulse": 2,
+   "thermo-beam": 1,
+   "unyielding-spirit": 2
+  }
+ },
+ "la-rumble-gremello": {
+  "name": "Rumble",
+  "sub": "Mechanized Menace",
+  "src": "Best-of, RQ Los Angeles (Sep 2026) · Gremello",
+  "event": "RQ Los Angeles (Sep 2026)",
+  "player": "Gremello",
+  "place": "Best-of",
+  "legend": "mechanized-menace",
+  "champ": "rumble-hotheaded",
+  "runes": {
+   "fury": 7,
+   "mind": 5
+  },
+  "bfs": [
+   "trifarian-war-camp",
+   "veiled-temple",
+   "zaun-warrens"
+  ],
+  "main": {
+   "brynhir-thundersong": 2,
+   "bubble-bot": 3,
+   "falling-star": 2,
+   "ferrous-forerunner": 1,
+   "forecaster": 3,
+   "gem-jammer": 3,
+   "hextech-formula": 2,
+   "long-sword": 1,
+   "patched-porobot": 3,
+   "perfect-execution": 2,
+   "production-surge": 3,
+   "pyke-dockside-butcher": 1,
+   "questionable-tome": 1,
+   "rage-amplifier": 3,
+   "rengar-pouncing": 1,
+   "rumble-hotheaded": 2,
+   "sprite-fountain": 3,
+   "temporal-breach": 3
+  },
+  "side": {
+   "brittle-steel": 3,
+   "brynhir-thundersong": 1,
+   "decree-of-insight": 1,
+   "ferrous-forerunner": 2,
+   "pickpocket": 2,
+   "unchecked-power": 1
+  }
+ },
+ "la-vi-aydeedee": {
+  "name": "Vi",
+  "sub": "Piltover Enforcer",
+  "src": "Best-of, RQ Los Angeles (Sep 2026) · aydeedee",
+  "event": "RQ Los Angeles (Sep 2026)",
+  "player": "aydeedee",
+  "place": "Best-of",
+  "legend": "piltover-enforcer",
+  "champ": "vi-peacekeeper",
+  "runes": {
+   "fury": 7,
+   "order": 5
+  },
+  "bfs": [
+   "forge-of-the-fluft",
+   "reckoners-arena",
+   "zaun-warrens"
+  ],
+  "main": {
+   "against-the-odds": 2,
+   "b-f-sword": 1,
+   "brynhir-thundersong": 1,
+   "cleave": 2,
+   "deathgrip": 2,
+   "ferrous-forerunner": 3,
+   "gem-jammer": 3,
+   "hextech-gauntlets": 3,
+   "hidden-blade": 2,
+   "honest-broker": 3,
+   "kaisa-survivor": 3,
+   "kennen-keeper-of-balance": 1,
+   "long-sword": 2,
+   "perfect-execution": 1,
+   "reksai-breacher": 1,
+   "rengar-unseen": 1,
+   "rumble-hotheaded": 3,
+   "sacrifice": 2,
+   "salvage": 1,
+   "trusty-ramhound": 2
+  },
+  "side": {
+   "ashe-focused": 3,
+   "falling-star": 1,
+   "imperial-decree": 2,
+   "noxus-saboteur": 2,
+   "salvage": 2
+  }
+ },
+ "la-zed-egoist": {
+  "name": "Zed",
+  "sub": "Master of Shadows",
+  "src": "Best-of, RQ Los Angeles (Sep 2026) · Egoist",
+  "event": "RQ Los Angeles (Sep 2026)",
+  "player": "Egoist",
+  "place": "Best-of",
+  "legend": "master-of-shadows",
+  "champ": "zed-without-a-sound",
+  "runes": {
+   "chaos": 8,
+   "fury": 4
+  },
+  "bfs": [
+   "forbidding-waste",
+   "minefield",
+   "zaun-warrens"
+  ],
+  "main": {
+   "baron-nashor": 2,
+   "blood-rush": 1,
+   "brittle-steel": 1,
+   "cleave": 1,
+   "death-mark": 3,
+   "ferrous-forerunner": 1,
+   "gust": 1,
+   "hard-bargain": 1,
+   "kaisa-survivor": 3,
+   "perfect-execution": 2,
+   "ride-the-wind": 3,
+   "shadow-order-disciple": 2,
+   "star-crossed": 1,
+   "switcheroo": 2,
+   "the-harrowing": 3,
+   "tideturner": 3,
+   "traveling-merchant": 3,
+   "up-from-the-deep": 2,
+   "vex-apathetic": 2,
+   "vi-destructive": 2
+  },
+  "side": {
+   "abandon": 1,
+   "brittle-steel": 1,
+   "ferrous-forerunner": 2,
+   "gust": 1,
+   "ravenbloom-prefect": 2,
+   "star-crossed": 1,
+   "thermo-beam": 1,
+   "up-from-the-deep": 1
+  }
+ },
+ "la-poppy-rubbjo": {
+  "name": "Poppy",
+  "sub": "Keeper of the Hammer",
+  "src": "Best-of, RQ Los Angeles (Sep 2026) · Rubbjo",
+  "event": "RQ Los Angeles (Sep 2026)",
+  "player": "Rubbjo",
+  "place": "Best-of",
+  "legend": "keeper-of-the-hammer",
+  "champ": "poppy-paragon",
+  "runes": {
+   "body": 7,
+   "order": 5
+  },
+  "bfs": [
+   "forgotten-monument",
+   "sigil-of-the-storm",
+   "threshold-of-the-gray"
+  ],
+  "main": {
+   "blood-money": 3,
+   "catalyst-of-aeons": 3,
+   "challenge": 2,
+   "confront": 3,
+   "dazzling-aurora": 3,
+   "elder-dragon": 3,
+   "flurry-of-blades": 3,
+   "forge-of-the-future": 3,
+   "harnessed-dragon": 3,
+   "mobilize": 3,
+   "rift-herald": 1,
+   "sabotage": 2,
+   "sacrifice": 3,
+   "salvage": 1,
+   "the-ruination": 2,
+   "vanguard-armory": 1
+  },
+  "side": {
+   "cataclysmic-duel": 1,
+   "decree-of-strength": 1,
+   "divine-judgment": 2,
+   "rengar-trophy-hunter": 3,
+   "sabotage": 1,
+   "salvage": 1,
+   "vanguard-armory": 1
+  }
+ },
+ "la-master-yi-vinzhs": {
+  "name": "Master Yi",
+  "sub": "Wuju Master",
+  "src": "Best-of, RQ Los Angeles (Sep 2026) · VinzHS",
+  "event": "RQ Los Angeles (Sep 2026)",
+  "player": "VinzHS",
+  "place": "Best-of",
+  "legend": "wuju-master",
+  "champ": "master-yi-tempered",
+  "runes": {
+   "body": 7,
+   "calm": 5
+  },
+  "bfs": [
+   "gardens-of-becoming",
+   "reckoners-arena",
+   "targons-peak"
+  ],
+  "main": {
+   "alpha-strike": 2,
+   "arachnoid-horror": 1,
+   "back-off": 3,
+   "concentrate": 2,
+   "defy": 3,
+   "discipline": 3,
+   "emperors-divide": 1,
+   "gemhand-hunter": 3,
+   "grim-resolve": 2,
+   "herald-of-spring": 2,
+   "master-yi-tempered": 1,
+   "master-yi-unstoppable": 3,
+   "punch-first": 3,
+   "scuttle-crab": 3,
+   "voracious-gromp": 1,
+   "wuju-apprentice": 3,
+   "zhonyas-hourglass": 3
+  },
+  "side": {
+   "decree-of-focus": 2,
+   "disarming-rake": 2,
+   "not-so-fast": 1,
+   "rampage": 2,
+   "sabotage": 2,
+   "unyielding-spirit": 1
+  }
+ },
+ "la-draven-i-missed-my-q": {
+  "name": "Draven",
+  "sub": "Glorious Executioner",
+  "src": "Best-of, RQ Los Angeles (Sep 2026) · I Missed My Q",
+  "event": "RQ Los Angeles (Sep 2026)",
+  "player": "I Missed My Q",
+  "place": "Best-of",
+  "legend": "glorious-executioner",
+  "champ": "draven-showboat",
+  "runes": {
+   "chaos": 6,
+   "fury": 6
+  },
+  "bfs": [
+   "grove-of-the-god-willow",
+   "star-spring",
+   "zaun-warrens"
+  ],
+  "main": {
+   "blood-rush": 1,
+   "edge-of-night": 1,
+   "evelynn-entrancing": 1,
+   "falling-star": 2,
+   "inferna": 2,
+   "kaisa-survivor": 3,
+   "khazix-mutating-horror": 2,
+   "noxus-hopeful": 3,
+   "overzealous-fan": 3,
+   "pyke-dockside-butcher": 1,
+   "pyke-returned": 2,
+   "rebuke": 3,
+   "rengar-pouncing": 1,
+   "spinning-axe": 3,
+   "switcheroo": 2,
+   "tideturner": 3,
+   "up-from-the-deep": 3,
+   "vex-apathetic": 3
+  },
+  "side": {
+   "brittle-steel": 2,
+   "brynhir-thundersong": 1,
+   "ferrous-forerunner": 2,
+   "ravenbloom-prefect": 3,
+   "star-crossed": 2
+  }
+ },
+ "la-ambessa-tss-riftboundtee": {
+  "name": "Ambessa",
+  "sub": "Matriarch of War",
+  "src": "Best-of, RQ Los Angeles (Sep 2026) · TSS RiftboundTee",
+  "event": "RQ Los Angeles (Sep 2026)",
+  "player": "TSS RiftboundTee",
+  "place": "Best-of",
+  "legend": "matriarch-of-war",
+  "champ": "ambessa-the-wolf",
+  "runes": {
+   "body": 8,
+   "order": 4
+  },
+  "bfs": [
+   "risen-altar",
+   "sandswept-tomb",
+   "star-spring"
+  ],
+  "main": {
+   "ambessa-the-wolf": 1,
+   "challenge": 1,
+   "first-mate": 2,
+   "guttural-roar": 2,
+   "irresistible-faefolk": 3,
+   "kayle-justified": 2,
+   "kennen-keeper-of-balance": 2,
+   "legion-marauder": 3,
+   "lucian-merciless": 2,
+   "noxian-emissary": 2,
+   "onslaught": 2,
+   "pit-rookie": 1,
+   "primal-strength": 1,
+   "public-execution": 1,
+   "punch-first": 3,
+   "rampage": 3,
+   "rengar-trophy-hunter": 2,
+   "sabotage": 1,
+   "tactical-retreat": 2,
+   "vi-peacekeeper": 3
+  },
+  "side": {
+   "ambessa-respected-and-feared": 1,
+   "decree-of-strength": 2,
+   "kayle-justified": 1,
+   "public-execution": 1,
+   "repulse": 2,
+   "sabotage": 1,
+   "salvage": 2
+  }
+ },
+ "la-jax-t1win": {
+  "name": "Jax",
+  "sub": "Grandmaster at Arms",
+  "src": "Best-of, RQ Los Angeles (Sep 2026) · T1WIN",
+  "event": "RQ Los Angeles (Sep 2026)",
+  "player": "T1WIN",
+  "place": "Best-of",
+  "legend": "grandmaster-at-arms",
+  "champ": "jax-unmatched",
+  "runes": {
+   "body": 6,
+   "calm": 6
+  },
+  "bfs": [
+   "forbidding-waste",
+   "ornns-forge",
+   "sunken-temple"
+  ],
+  "main": {
+   "brutalizer": 3,
+   "counter-strike": 3,
+   "defy": 3,
+   "discipline": 3,
+   "dorans-blade": 2,
+   "first-mate": 3,
+   "guardian-angel": 3,
+   "irelia-fervent": 2,
+   "irresistible-faefolk": 3,
+   "lucian-merciless": 3,
+   "punch-first": 2,
+   "rampage": 3,
+   "rengar-trophy-hunter": 3,
+   "scuttle-crab": 3
+  },
+  "side": {
+   "decree-of-focus": 1,
+   "disarming-rake": 2,
+   "not-so-fast": 1,
+   "onslaught": 1,
+   "ruin-runner": 2,
+   "sabotage": 2,
+   "tomb-raider-barbara": 1
+  }
+ },
+ "la-ivern-aserty": {
+  "name": "Ivern",
+  "sub": "Green Father",
+  "src": "Best-of, RQ Los Angeles (Sep 2026) · Aserty",
+  "event": "RQ Los Angeles (Sep 2026)",
+  "player": "Aserty",
+  "place": "Best-of",
+  "legend": "green-father",
+  "champ": "ivern-nurturer",
+  "runes": {
+   "calm": 6,
+   "order": 6
+  },
+  "bfs": [
+   "forbidding-waste",
+   "rockfall-path",
+   "vilemaws-lair"
+  ],
+  "main": {
+   "affectionate-poro": 2,
+   "astral-heron": 3,
+   "back-off": 2,
+   "block": 1,
+   "call-to-glory": 1,
+   "daisy": 1,
+   "defy": 3,
+   "discipline": 3,
+   "emperors-divide": 2,
+   "fallen-feline": 2,
+   "friendship": 2,
+   "frisky-hunter": 1,
+   "grand-strategem": 2,
+   "ivern-nurturer": 1,
+   "janna-savior": 1,
+   "kennen-keeper-of-balance": 1,
+   "mutated-mouser": 3,
+   "not-so-fast": 1,
+   "stalwart-poro": 3,
+   "trusty-ramhound": 3,
+   "vilemaw": 1
+  },
+  "side": {
+   "ashe-focused": 2,
+   "blitzcrank-impassive": 1,
+   "cull-the-weak": 3,
+   "disarming-rake": 3,
+   "not-so-fast": 1
+  }
+ },
+ "la-sivir-randyyy": {
+  "name": "Sivir",
+  "sub": "Battle Mistress",
+  "src": "Best-of, RQ Los Angeles (Sep 2026) · Randyyy",
+  "event": "RQ Los Angeles (Sep 2026)",
+  "player": "Randyyy",
+  "place": "Best-of",
+  "legend": "battle-mistress",
+  "champ": "sivir-mercenary",
+  "runes": {
+   "body": 5,
+   "chaos": 7
+  },
+  "bfs": [
+   "sandswept-tomb",
+   "sigil-of-the-storm",
+   "zaun-warrens"
+  ],
+  "main": {
+   "acceptable-losses": 1,
+   "edge-of-night": 2,
+   "ezreal-prodigy": 3,
+   "fizz-trickster": 3,
+   "grim-resolve": 1,
+   "gust": 1,
+   "last-rites": 1,
+   "punch-first": 3,
+   "pyke-returned": 1,
+   "rampage": 3,
+   "sabotage": 2,
+   "shadow-order-disciple": 3,
+   "star-crossed": 2,
+   "switcheroo": 2,
+   "tail-cloaked-matriarch": 3,
+   "tideturner": 2,
+   "tornado-warrior": 3,
+   "traveling-merchant": 3
+  },
+  "side": {
+   "acceptable-losses": 1,
+   "akshan-mischievous": 1,
+   "decree-of-strength": 1,
+   "gust": 1,
+   "ravenbloom-prefect": 3,
+   "sabotage": 1,
+   "star-crossed": 1,
+   "unyielding-spirit": 1
+  }
+ },
+ "la-nasus-niguel": {
+  "name": "Nasus",
+  "sub": "Curator of the Sands",
+  "src": "Best-of, RQ Los Angeles (Sep 2026) · Niguel",
+  "event": "RQ Los Angeles (Sep 2026)",
+  "player": "Niguel",
+  "place": "Best-of",
+  "legend": "curator-of-the-sands",
+  "champ": "nasus-ascended",
+  "runes": {
+   "calm": 6,
+   "mind": 6
+  },
+  "bfs": [
+   "frozen-fortress",
+   "rockfall-path",
+   "vilemaws-lair"
+  ],
+  "main": {
+   "bellows-breath": 3,
+   "defy": 3,
+   "discipline": 3,
+   "find-your-center": 3,
+   "lecturing-yordle": 3,
+   "lonely-poro": 3,
+   "not-so-fast": 1,
+   "ravenbloom-student": 3,
+   "scuttle-crab": 3,
+   "sprite-burst": 3,
+   "sprite-queen": 1,
+   "stupefy": 3,
+   "tasty-faefolk": 3,
+   "thousand-tailed-watcher": 3,
+   "time-warp": 1
+  },
+  "side": {
+   "decree-of-focus": 2,
+   "decree-of-insight": 3,
+   "not-so-fast": 1,
+   "tomb-raider-barbara": 2,
+   "turn-to-dust": 2
+  }
+ },
+ "la-pyke-c4lciosf": {
+  "name": "Pyke",
+  "sub": "Bloodharbor Ripper",
+  "src": "Best-of, RQ Los Angeles (Sep 2026) · C4lcioSF",
+  "event": "RQ Los Angeles (Sep 2026)",
+  "player": "C4lcioSF",
+  "place": "Best-of",
+  "legend": "bloodharbor-ripper",
+  "champ": "pyke-dockside-butcher",
+  "runes": {
+   "chaos": 5,
+   "fury": 7
+  },
+  "bfs": [
+   "frozen-fortress",
+   "rockfall-path",
+   "void-gate"
+  ],
+  "main": {
+   "bewitching-spirit": 3,
+   "blast-corps-cadet": 1,
+   "blood-rush": 2,
+   "brittle-steel": 2,
+   "cleave": 1,
+   "ezreal-prodigy": 2,
+   "falling-star": 3,
+   "ferrous-forerunner": 2,
+   "fizz-trickster": 2,
+   "gust": 1,
+   "gust-monk": 1,
+   "hard-bargain": 1,
+   "piercing-light": 1,
+   "seal-of-rage": 2,
+   "sharkling": 1,
+   "star-crossed": 2,
+   "switcheroo": 2,
+   "tail-cloaked-matriarch": 1,
+   "tideturner": 1,
+   "traveling-merchant": 3,
+   "treasure-hunter": 2,
+   "vex-apathetic": 2,
+   "void-seeker": 1
+  },
+  "side": {
+   "angler-beast": 1,
+   "baron-nashor": 1,
+   "decree-of-rage": 2,
+   "downwell": 1,
+   "gust": 1,
+   "ravenbloom-prefect": 1,
+   "rebuke": 1,
+   "smite": 1,
+   "thermo-beam": 1
+  }
+ },
+ "la-jhin-jibbs": {
+  "name": "Jhin",
+  "sub": "Virtuoso",
+  "src": "Best-of, RQ Los Angeles (Sep 2026) · Jibbs",
+  "event": "RQ Los Angeles (Sep 2026)",
+  "player": "Jibbs",
+  "place": "Best-of",
+  "legend": "virtuoso",
+  "champ": "jhin-meticulous-killer",
+  "runes": {
+   "fury": 5,
+   "mind": 7
+  },
+  "bfs": [
+   "forbidding-waste",
+   "frozen-fortress",
+   "sigil-of-the-storm"
+  ],
+  "main": {
+   "consult-the-past": 3,
+   "curtain-call": 3,
+   "deadly-flourish": 3,
+   "downstage-dramatics": 1,
+   "falling-star": 1,
+   "ferrous-forerunner": 2,
+   "forecaster": 3,
+   "frigid-touch": 1,
+   "noxus-hopeful": 3,
+   "orb-of-regret": 1,
+   "plundering-poro": 3,
+   "rocket-barrage": 2,
+   "singularity": 2,
+   "sprite-burst": 3,
+   "stupefy": 3,
+   "thousand-tailed-watcher": 2,
+   "time-warp": 2,
+   "unchecked-power": 1
+  },
+  "side": {
+   "brittle-steel": 1,
+   "decree-of-insight": 2,
+   "ferrous-forerunner": 1,
+   "sharkling": 2,
+   "sprite-fountain": 2,
+   "thermo-beam": 1,
+   "unchecked-power": 1
+  }
+ },
+ "la-lillia-danoz": {
+  "name": "Lillia",
+  "sub": "Bashful Bloom",
+  "src": "Best-of, RQ Los Angeles (Sep 2026) · DanOz",
+  "event": "RQ Los Angeles (Sep 2026)",
+  "player": "DanOz",
+  "place": "Best-of",
+  "legend": "bashful-bloom",
+  "champ": "lillia-fae-fawn",
+  "runes": {
+   "calm": 7,
+   "mind": 5
+  },
+  "bfs": [
+   "black-flame-altar",
+   "dusk-rose-lab",
+   "seat-of-power"
+  ],
+  "main": {
+   "brutalizer": 2,
+   "charm": 2,
+   "defy": 3,
+   "discipline": 3,
+   "en-garde": 3,
+   "lillia-fae-fawn": 1,
+   "lonely-poro": 3,
+   "mask-of-foresight": 3,
+   "ravenbloom-student": 3,
+   "smoke-and-mirrors": 3,
+   "smoke-screen": 2,
+   "sprite-burst": 3,
+   "sprite-fountain": 3,
+   "stupefy": 2,
+   "thousand-tailed-watcher": 1,
+   "tomb-raider-barbara": 1,
+   "unchecked-power": 1
+  },
+  "side": {
+   "akali-silent": 2,
+   "charm": 1,
+   "decree-of-focus": 1,
+   "decree-of-insight": 3,
+   "disarming-rake": 1,
+   "lilting-lullaby": 1,
+   "tomb-raider-barbara": 1
+  }
+ },
+ "la-jayce-asc-brandon": {
+  "name": "Jayce",
+  "sub": "Defender of Tomorrow",
+  "src": "Best-of, RQ Los Angeles (Sep 2026) · ASC Brandon",
+  "event": "RQ Los Angeles (Sep 2026)",
+  "player": "ASC Brandon",
+  "place": "Best-of",
+  "legend": "defender-of-tomorrow",
+  "champ": "jayce-brilliant-inventor",
+  "runes": {
+   "body": 8,
+   "mind": 4
+  },
+  "bfs": [
+   "forgotten-monument",
+   "frozen-fortress",
+   "sigil-of-the-storm"
+  ],
+  "main": {
+   "bellows-breath": 3,
+   "catalyst-of-aeons": 3,
+   "clairvoyance": 3,
+   "dazzling-aurora": 3,
+   "dredge-up": 3,
+   "elder-dragon": 3,
+   "flurry-of-blades": 2,
+   "garbage-grabber": 2,
+   "gutter-palace": 2,
+   "mobilize": 3,
+   "platewyrm-egg": 3,
+   "promising-future": 3,
+   "rocket-barrage": 2,
+   "sabotage": 2,
+   "sprite-burst": 1,
+   "sprite-fountain": 1
+  },
+  "side": {
+   "deadly-flourish": 2,
+   "flurry-of-blades": 1,
+   "sabotage": 1,
+   "sprite-burst": 1,
+   "stupefy": 3,
+   "wages-of-pain": 2
+  }
+ },
+ "la-reksai-sinzari": {
+  "name": "Rek'Sai",
+  "sub": "Void Burrower",
+  "src": "Best-of, RQ Los Angeles (Sep 2026) · Sinzari",
+  "event": "RQ Los Angeles (Sep 2026)",
+  "player": "Sinzari",
+  "place": "Best-of",
+  "legend": "void-burrower",
+  "champ": "reksai-breacher",
+  "runes": {
+   "fury": 7,
+   "order": 5
+  },
+  "bfs": [
+   "forbidding-waste",
+   "rockfall-path",
+   "void-gate"
+  ],
+  "main": {
+   "blood-rush": 3,
+   "carrion-dredger": 3,
+   "cleave": 3,
+   "cull-the-weak": 3,
+   "faithful-manufactor": 3,
+   "falling-star": 3,
+   "hextech-ray": 1,
+   "hidden-blade": 1,
+   "honest-broker": 2,
+   "imperial-decree": 1,
+   "inferna": 3,
+   "mischievous-marai": 2,
+   "noxian-emissary": 3,
+   "noxus-hopeful": 3,
+   "shadow-fiend": 1,
+   "undertitan": 1,
+   "void-rush": 3
+  },
+  "side": {
+   "brittle-steel": 1,
+   "ferrous-forerunner": 3,
+   "forge-of-the-future": 1,
+   "imperial-decree": 1,
+   "salvage": 1,
+   "smite": 2,
+   "thermo-beam": 1
+  }
+ },
+ "la-ezreal-kactusxking": {
+  "name": "Ezreal",
+  "sub": "Prodigal Explorer",
+  "src": "Best-of, RQ Los Angeles (Sep 2026) · KactusxKing",
+  "event": "RQ Los Angeles (Sep 2026)",
+  "player": "KactusxKing",
+  "place": "Best-of",
+  "legend": "prodigal-explorer",
+  "champ": "ezreal-prodigy",
+  "runes": {
+   "chaos": 6,
+   "mind": 6
+  },
+  "bfs": [
+   "frozen-fortress",
+   "sigil-of-the-storm",
+   "vilemaws-lair"
+  ],
+  "main": {
+   "acceptable-losses": 1,
+   "bellows-breath": 3,
+   "bewitching-spirit": 3,
+   "deadly-flourish": 3,
+   "fizz-trickster": 3,
+   "gust": 3,
+   "pack-of-wonders": 3,
+   "singularity": 1,
+   "sprite-fountain": 1,
+   "star-crossed": 2,
+   "stupefy": 3,
+   "the-list": 2,
+   "thousand-tailed-watcher": 2,
+   "treasure-trove": 2,
+   "turn-to-dust": 1,
+   "vex-apathetic": 3,
+   "wages-of-pain": 3
+  },
+  "side": {
+   "acceptable-losses": 1,
+   "angler-beast": 1,
+   "khazix-mutating-horror": 2,
+   "pickpocket": 1,
+   "ravenbloom-prefect": 2,
+   "singularity": 1,
+   "star-crossed": 1,
+   "turn-to-dust": 1
+  }
+ },
+ "la-fiora-vves": {
+  "name": "Fiora",
+  "sub": "Grand Duelist",
+  "src": "Best-of, RQ Los Angeles (Sep 2026) · VVES",
+  "event": "RQ Los Angeles (Sep 2026)",
+  "player": "VVES",
+  "place": "Best-of",
+  "legend": "grand-duelist",
+  "champ": "fiora-victorious",
+  "runes": {
+   "body": 8,
+   "order": 4
+  },
+  "bfs": [
+   "amateur-recital",
+   "risen-altar",
+   "sunken-temple"
+  ],
+  "main": {
+   "akshan-mischievous": 3,
+   "dorans-blade": 2,
+   "elder-dragon": 3,
+   "harnessed-dragon": 2,
+   "kayle-justified": 3,
+   "kinkou-initiate": 2,
+   "pit-rookie": 3,
+   "punch-first": 3,
+   "rampage": 3,
+   "rengar-trophy-hunter": 3,
+   "rift-herald": 3,
+   "riposte": 3,
+   "sacrifice": 3,
+   "shepherds-heirloom": 3
+  },
+  "side": {
+   "challenge": 1,
+   "decree-of-strength": 2,
+   "flurry-of-blades": 2,
+   "repulse": 1,
+   "sabotage": 2,
+   "salvage": 2
+  }
+ },
+ "la-lucian-asc-deamon": {
+  "name": "Lucian",
+  "sub": "Purifier",
+  "src": "Best-of, RQ Los Angeles (Sep 2026) · ASC Deamon",
+  "event": "RQ Los Angeles (Sep 2026)",
+  "player": "ASC Deamon",
+  "place": "Best-of",
+  "legend": "purifier",
+  "champ": "lucian-merciless",
+  "runes": {
+   "body": 6,
+   "fury": 6
+  },
+  "bfs": [
+   "forge-of-the-fluft",
+   "trapping-grounds",
+   "zaun-warrens"
+  ],
+  "main": {
+   "blighted-battleaxe": 2,
+   "ferrous-forerunner": 1,
+   "first-mate": 3,
+   "gem-jammer": 3,
+   "irresistible-faefolk": 3,
+   "jhin-murderous-artist": 2,
+   "kaisa-survivor": 3,
+   "long-sword": 3,
+   "poppy-paragon": 1,
+   "punch-first": 3,
+   "rampage": 1,
+   "red-brambleback": 1,
+   "relentless-pursuit": 3,
+   "ruin-runner": 2,
+   "sabotage": 2,
+   "skyfall-of-areion": 3,
+   "trinity-force": 3
+  },
+  "side": {
+   "ambessa-the-wolf": 2,
+   "brittle-steel": 1,
+   "decree-of-strength": 1,
+   "ferrous-forerunner": 1,
+   "pendulum-blade": 1,
+   "rampage": 2,
+   "sabotage": 1,
+   "unyielding-spirit": 1
+  }
+ },
+ "la-vex-bsweitz": {
+  "name": "Vex",
+  "sub": "Gloomist",
+  "src": "Best-of, RQ Los Angeles (Sep 2026) · bsweitz",
+  "event": "RQ Los Angeles (Sep 2026)",
+  "player": "bsweitz",
+  "place": "Best-of",
+  "legend": "gloomist",
+  "champ": "vex-apathetic",
+  "runes": {
+   "calm": 5,
+   "chaos": 7
+  },
+  "bfs": [
+   "fortified-position",
+   "startipped-peak",
+   "targons-peak"
+  ],
+  "main": {
+   "astral-heron": 3,
+   "back-off": 2,
+   "boots-of-swiftness": 2,
+   "charm": 1,
+   "clockwork-keeper": 3,
+   "defy": 2,
+   "discipline": 1,
+   "edge-of-night": 1,
+   "en-garde": 1,
+   "evelynn-entrancing": 3,
+   "existential-dread": 1,
+   "janna-savior": 2,
+   "meditation": 1,
+   "mutated-mouser": 2,
+   "not-so-fast": 1,
+   "pyke-returned": 2,
+   "rebuke": 1,
+   "star-crossed": 2,
+   "switcheroo": 3,
+   "tideturner": 1,
+   "vex-apathetic": 1,
+   "vilemaw": 1,
+   "zhonyas-hourglass": 2
+  },
+  "side": {
+   "baron-nashor": 1,
+   "charm": 1,
+   "disarming-rake": 2,
+   "gust": 2,
+   "not-so-fast": 1,
+   "ravenbloom-prefect": 2,
+   "vex-cheerless": 1
+  }
+ },
+ "la-diana-asc-nalkpas": {
+  "name": "Diana",
+  "sub": "Scorn of the Moon",
+  "src": "Best-of, RQ Los Angeles (Sep 2026) · ASC nalkpas",
+  "event": "RQ Los Angeles (Sep 2026)",
+  "player": "ASC nalkpas",
+  "place": "Best-of",
+  "legend": "scorn-of-the-moon",
+  "champ": "diana-lunari",
+  "runes": {
+   "chaos": 7,
+   "mind": 5
+  },
+  "bfs": [
+   "abandoned-hall",
+   "seat-of-power",
+   "targons-peak"
+  ],
+  "main": {
+   "acceptable-losses": 1,
+   "eclipse": 2,
+   "fizz-trickster": 1,
+   "flash": 1,
+   "gust": 2,
+   "hard-bargain": 2,
+   "hwei-brooding-painter": 3,
+   "moonfall": 3,
+   "ravenbloom-student": 3,
+   "rebuke": 1,
+   "ride-the-wind": 2,
+   "smoke-screen": 1,
+   "sprite-fountain": 2,
+   "star-crossed": 2,
+   "stupefy": 3,
+   "switcheroo": 1,
+   "tideturner": 3,
+   "traveling-merchant": 3,
+   "vex-apathetic": 3
+  },
+  "side": {
+   "acceptable-losses": 1,
+   "decree-of-insight": 2,
+   "fizz-trickster": 1,
+   "singularity": 1,
+   "star-crossed": 1,
+   "tail-cloaked-matriarch": 1,
+   "turn-to-dust": 2,
+   "up-from-the-deep": 1
+  }
+ },
+ "la-khazix-cuoemrei": {
+  "name": "Kha'Zix",
+  "sub": "Voidreaver",
+  "src": "Best-of, RQ Los Angeles (Sep 2026) · Cuoemrei",
+  "event": "RQ Los Angeles (Sep 2026)",
+  "player": "Cuoemrei",
+  "place": "Best-of",
+  "legend": "voidreaver",
+  "champ": "khazix-mutating-horror",
+  "runes": {
+   "body": 6,
+   "chaos": 6
+  },
+  "bfs": [
+   "sandswept-tomb",
+   "star-spring",
+   "zaun-warrens"
+  ],
+  "main": {
+   "evelynn-entrancing": 1,
+   "fizz-trickster": 3,
+   "irresistible-faefolk": 3,
+   "kinkou-initiate": 3,
+   "punch-first": 3,
+   "rampage": 2,
+   "rengar-trophy-hunter": 2,
+   "ride-the-wind": 1,
+   "sabotage": 2,
+   "shadow-order-disciple": 3,
+   "star-crossed": 2,
+   "switcheroo": 1,
+   "tail-cloaked-matriarch": 2,
+   "tideturner": 1,
+   "tornado-warrior": 1,
+   "traveling-merchant": 1,
+   "up-from-the-deep": 2,
+   "vex-apathetic": 2,
+   "void-assault": 3,
+   "zed-without-a-sound": 1
+  },
+  "side": {
+   "acceptable-losses": 2,
+   "decree-of-strength": 1,
+   "gust": 2,
+   "hard-bargain": 1,
+   "rampage": 1,
+   "ravenbloom-prefect": 2,
+   "sabotage": 1
+  }
+ },
+ "la-kennen-dsg-awesumrosum": {
+  "name": "Kennen",
+  "sub": "Heart of the Tempest",
+  "src": "Best-of, RQ Los Angeles (Sep 2026) · DSG AwesumRosum",
+  "event": "RQ Los Angeles (Sep 2026)",
+  "player": "DSG AwesumRosum",
+  "place": "Best-of",
+  "legend": "heart-of-the-tempest",
+  "champ": "kennen-storm-of-shuriken",
+  "runes": {
+   "chaos": 9,
+   "order": 3
+  },
+  "bfs": [
+   "minefield",
+   "shadow-temple",
+   "zaun-warrens"
+  ],
+  "main": {
+   "carrion-dredger": 1,
+   "ezreal-prodigy": 2,
+   "fizz-trickster": 1,
+   "flash": 2,
+   "gust": 2,
+   "hard-bargain": 1,
+   "last-rites": 2,
+   "lightning-rush": 3,
+   "rhasa-the-sunderer": 3,
+   "ride-the-wind": 2,
+   "salvage": 1,
+   "seal-of-discord": 3,
+   "shadow-order-disciple": 3,
+   "star-crossed": 1,
+   "switcheroo": 2,
+   "tail-cloaked-matriarch": 3,
+   "tideturner": 1,
+   "tornado-warrior": 2,
+   "traveling-merchant": 3,
+   "up-from-the-deep": 1
+  },
+  "side": {
+   "decree-of-unity": 1,
+   "fizz-trickster": 1,
+   "hard-bargain": 1,
+   "lacerate": 1,
+   "ravenbloom-prefect": 2,
+   "rebuke": 1,
+   "salvage": 1,
+   "star-crossed": 1,
+   "up-from-the-deep": 1
+  }
+ },
+ "la-leblanc-mill-twistedtcg": {
+  "name": "LeBlanc",
+  "sub": "Deceiver",
+  "src": "Best-of, RQ Los Angeles (Sep 2026) · MILL TwistedTCG",
+  "event": "RQ Los Angeles (Sep 2026)",
+  "player": "MILL TwistedTCG",
+  "place": "Best-of",
+  "legend": "deceiver",
+  "champ": "leblanc-fragmented",
+  "runes": {
+   "mind": 4,
+   "order": 8
+  },
+  "bfs": [
+   "dusk-rose-lab",
+   "star-spring",
+   "windswept-hillock"
+  ],
+  "main": {
+   "baited-hook": 3,
+   "black-rose-dignitary": 3,
+   "deathgrip": 1,
+   "glasc-mixologist": 3,
+   "harnessed-dragon": 3,
+   "hidden-blade": 1,
+   "honest-broker": 2,
+   "karthus-eternal": 3,
+   "mirror-image": 2,
+   "rift-herald": 3,
+   "ruined-rex": 3,
+   "sacrifice": 3,
+   "soaring-scout": 3,
+   "thousand-tailed-watcher": 1,
+   "vi-peacekeeper": 3,
+   "watchful-sentry": 2
+  },
+  "side": {
+   "ashe-focused": 1,
+   "bellows-breath": 2,
+   "decree-of-unity": 2,
+   "mirror-image": 1,
+   "salvage": 3,
+   "thousand-tailed-watcher": 1
+  }
+ }
+}
